@@ -3,7 +3,7 @@
 
 ### Hello world!
 
-Getting some fun writing some code!
+Getting some fun while writing code!
 Here you'll find my secret stash of what I'm learning nowadays!
 Feel free to reach me if you have some comment on my code!!
 
